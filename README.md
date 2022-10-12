@@ -4,11 +4,3 @@ Updates will be posted every few weeks. The current focus is on hands and better
 Feature suggestions are welcome. 
 
 https://huggingface.co/Deltaadams/Hentai-Diffusion/tree/main
-
----
-tags:
-- hentai
-- anime
-- Stable Diffusion
-
----
