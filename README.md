@@ -1,5 +1,8 @@
 Hentai Diffusion 
-!IMPORTANT
+
+!!!! IMPORTANT !!!!
+dfgfdg
+
 Updates will be posted every few weeks. The current focus is on hands and better poses like crouching and laying/sitting down.
 Feature suggestions are welcome. 
 
